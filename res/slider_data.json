@@ -1,0 +1,24 @@
+{
+    "type": "slider",
+    "pageInfo": {
+        "totalResults": 4,
+        "resultsPerPage": 4
+    },
+    "items": [{
+            "url": "http://images.bewakoof.com/t540/colors-of-peace-half-sleeve-t-shirt-men-s-printed-t-shirts-1509111823.jpg",
+            "type": "image"
+        },
+        {
+            "url": "http://images.bewakoof.com/t540/legendary-outlaw-half-sleeve-t-shirt-men-s-printed-t-shirts-171329-1528364023.jpg",
+            "type": "image"
+        },
+        {
+            "url": "http://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4",
+            "type": "video"
+        },
+        {
+            "url": "http://www.youtube.com/embed/gj1rrvRPEWo",
+            "type": "video"
+        }
+    ]
+}
